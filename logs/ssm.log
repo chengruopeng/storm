@@ -1,0 +1,23 @@
+[INFO] [2016-04-04 16:25:59][console]info!!!
+  [WARN] [2016-04-04 16:25:59][console]warn!!!
+  [ERROR] [2016-04-04 16:25:59][console]error!!!
+  [FATAL] [2016-04-04 16:25:59][console]fatal!!!
+  [INFO] [2016-04-04 16:25:59][NTlog]info!!!
+  [WARN] [2016-04-04 16:25:59][NTlog]warn!!!
+  [ERROR] [2016-04-04 16:25:59][NTlog]error!!!
+  [FATAL] [2016-04-04 16:25:59][NTlog]fatal!!!
+  [WARN] [2016-04-04 16:25:59][MailLog]warn!!!
+  [ERROR] [2016-04-04 16:25:59][MailLog]error!!!
+  [FATAL] [2016-04-04 16:25:59][MailLog]fatal!!!
+  [INFO] [2016-04-04 16:27:45][console]info!!!
+  [WARN] [2016-04-04 16:27:45][console]warn!!!
+  [ERROR] [2016-04-04 16:27:45][console]error!!!
+  [FATAL] [2016-04-04 16:27:45][console]fatal!!!
+  [INFO] [2016-04-04 16:27:45][NTlog]info!!!
+  [WARN] [2016-04-04 16:27:45][NTlog]warn!!!
+  [ERROR] [2016-04-04 16:27:45][NTlog]error!!!
+  [FATAL] [2016-04-04 16:27:45][NTlog]fatal!!!
+  [WARN] [2016-04-04 16:27:45][MailLog]warn!!!
+  [ERROR] [2016-04-04 16:27:45][MailLog]error!!!
+  [FATAL] [2016-04-04 16:27:45][MailLog]fatal!!!
+  
